@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m257.000007,189.600003l0,0c0,6.958785 14.10303,12.599999 31.500001,12.599999c17.396962,0 31.499988,-5.641214 31.499988,-12.599999l0,0c0,-6.958789 14.103035,-12.599999 31.500005,-12.599999c17.39697,0 31.499988,5.641214 31.499988,12.599999l0,100.799989c0,-6.958785 -14.103022,-12.600007 -31.499988,-12.600007c-17.39697,0 -31.500005,5.641218 -31.500005,12.600007c0,6.958781 -14.103026,12.599994 -31.499988,12.599994c-17.39697,0 -31.500001,-5.641214 -31.500001,-12.599994l0,-100.799989z" fill="#00eaa8" id="svg_1" stroke="#000000" stroke-width="5"/>
+  <text fill="#000000" font-family="Fantasy" font-size="48" font-weight="bold" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" x="320.015625" xml:space="preserve" y="259">JPC</text>
+ </g>
+</svg>
